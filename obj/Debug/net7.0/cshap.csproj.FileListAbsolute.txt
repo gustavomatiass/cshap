@@ -1,0 +1,15 @@
+C:\Users\Positivo\Documents\estudos\cshap\bin\Debug\net7.0\cshap.exe
+C:\Users\Positivo\Documents\estudos\cshap\bin\Debug\net7.0\cshap.deps.json
+C:\Users\Positivo\Documents\estudos\cshap\bin\Debug\net7.0\cshap.runtimeconfig.json
+C:\Users\Positivo\Documents\estudos\cshap\bin\Debug\net7.0\cshap.dll
+C:\Users\Positivo\Documents\estudos\cshap\bin\Debug\net7.0\cshap.pdb
+C:\Users\Positivo\Documents\estudos\cshap\obj\Debug\net7.0\cshap.csproj.AssemblyReference.cache
+C:\Users\Positivo\Documents\estudos\cshap\obj\Debug\net7.0\cshap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Positivo\Documents\estudos\cshap\obj\Debug\net7.0\cshap.AssemblyInfoInputs.cache
+C:\Users\Positivo\Documents\estudos\cshap\obj\Debug\net7.0\cshap.AssemblyInfo.cs
+C:\Users\Positivo\Documents\estudos\cshap\obj\Debug\net7.0\cshap.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Documents\estudos\cshap\obj\Debug\net7.0\cshap.dll
+C:\Users\Positivo\Documents\estudos\cshap\obj\Debug\net7.0\refint\cshap.dll
+C:\Users\Positivo\Documents\estudos\cshap\obj\Debug\net7.0\cshap.pdb
+C:\Users\Positivo\Documents\estudos\cshap\obj\Debug\net7.0\cshap.genruntimeconfig.cache
+C:\Users\Positivo\Documents\estudos\cshap\obj\Debug\net7.0\ref\cshap.dll
