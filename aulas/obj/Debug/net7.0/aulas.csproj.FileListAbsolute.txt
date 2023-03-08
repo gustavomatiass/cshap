@@ -1,0 +1,15 @@
+C:\Users\Positivo\Documents\estudos\cshap\aulas\bin\Debug\net7.0\aulas.exe
+C:\Users\Positivo\Documents\estudos\cshap\aulas\bin\Debug\net7.0\aulas.deps.json
+C:\Users\Positivo\Documents\estudos\cshap\aulas\bin\Debug\net7.0\aulas.runtimeconfig.json
+C:\Users\Positivo\Documents\estudos\cshap\aulas\bin\Debug\net7.0\aulas.dll
+C:\Users\Positivo\Documents\estudos\cshap\aulas\bin\Debug\net7.0\aulas.pdb
+C:\Users\Positivo\Documents\estudos\cshap\aulas\obj\Debug\net7.0\aulas.csproj.AssemblyReference.cache
+C:\Users\Positivo\Documents\estudos\cshap\aulas\obj\Debug\net7.0\aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Positivo\Documents\estudos\cshap\aulas\obj\Debug\net7.0\aulas.AssemblyInfoInputs.cache
+C:\Users\Positivo\Documents\estudos\cshap\aulas\obj\Debug\net7.0\aulas.AssemblyInfo.cs
+C:\Users\Positivo\Documents\estudos\cshap\aulas\obj\Debug\net7.0\aulas.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Documents\estudos\cshap\aulas\obj\Debug\net7.0\aulas.dll
+C:\Users\Positivo\Documents\estudos\cshap\aulas\obj\Debug\net7.0\refint\aulas.dll
+C:\Users\Positivo\Documents\estudos\cshap\aulas\obj\Debug\net7.0\aulas.pdb
+C:\Users\Positivo\Documents\estudos\cshap\aulas\obj\Debug\net7.0\aulas.genruntimeconfig.cache
+C:\Users\Positivo\Documents\estudos\cshap\aulas\obj\Debug\net7.0\ref\aulas.dll

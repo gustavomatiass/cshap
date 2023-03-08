@@ -1,0 +1,15 @@
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\bin\Debug\net7.0\aula01.exe
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\bin\Debug\net7.0\aula01.deps.json
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\bin\Debug\net7.0\aula01.runtimeconfig.json
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\bin\Debug\net7.0\aula01.dll
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\bin\Debug\net7.0\aula01.pdb
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\obj\Debug\net7.0\aula01.csproj.AssemblyReference.cache
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\obj\Debug\net7.0\aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\obj\Debug\net7.0\aula01.AssemblyInfoInputs.cache
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\obj\Debug\net7.0\aula01.AssemblyInfo.cs
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\obj\Debug\net7.0\aula01.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\obj\Debug\net7.0\aula01.dll
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\obj\Debug\net7.0\refint\aula01.dll
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\obj\Debug\net7.0\aula01.pdb
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\obj\Debug\net7.0\aula01.genruntimeconfig.cache
+C:\Users\Positivo\Documents\estudos\cshap\aulas\aula01\obj\Debug\net7.0\ref\aula01.dll
